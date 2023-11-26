@@ -25,7 +25,7 @@ public class Test {
     public static void run(){
     }
      public void run1(){
-    System.out.println("");
+    System.out.println(" ");
 }
 
     public static void main(String[] args) {
