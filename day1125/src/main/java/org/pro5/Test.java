@@ -24,7 +24,9 @@ public class Test {
     @Deprecated
     public static void run(){
     }
-
+     public void run1(){
+    System.out.println("");
+}
 
     public static void main(String[] args) {
         run();
